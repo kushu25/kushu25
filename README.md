@@ -2,6 +2,9 @@
   <img src="https://github.com/kushu25/kushu25/blob/main/1719201576442.jpeg" alt="Header" title="Header" style="max-width: 100%;">
 </a>
 
+## 📫 About me
+I am a Frontend Web Developer with extensive experience in building dynamic, user-centric web applications, particularly in the e-commerce domain. My primary expertise lies in React, where I craft fast, responsive, and scalable applications that provide an optimal user experience, driving business results in the e-commerce space. I focus on building seamless, high-performance interfaces that help increase conversion rates and customer satisfaction.
+
 ## 📫 Reach me on
 
 <p align="center">
